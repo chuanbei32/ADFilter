@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Title: Must be retained
+
+@@||adbehavior.ximalaya.com^$important
+@@||xdcs-collector.ximalaya.com^$important
+@@||adbs.ximalaya.com^$important
+@@||ad.ctc.ximalaya.com^$important
+@@||linkeye.ximalaya.com^$important
