@@ -1,9 +1,14 @@
 ! Title: Must be retained
 
+@@||mp.weixin.qq.com^$important
+@@||*.github.com^$important
 @@||adbehavior.ximalaya.com^$important
 @@||xdcs-collector.ximalaya.com^$important
 @@||adbs.ximalaya.com^$important
 @@||ad.ctc.ximalaya.com^$important
 @@||linkeye.ximalaya.com^$important
 @@||h^$important
+@@||*.top^$important
+@@||stackoverflow.com^$important
+
 
